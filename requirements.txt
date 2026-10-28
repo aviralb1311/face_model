@@ -1,0 +1,3 @@
+deepface>=0.0.90
+opencv-contrib-python>=4.8
+numpy
